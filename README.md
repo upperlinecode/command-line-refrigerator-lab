@@ -1,5 +1,7 @@
 # Lab: Clean Up The Fridge!
 
+![Dirty Fridge](https://img.clipartfest.com/b59ba28ca25e5c8b42c7b5de82e491c5_mortimer-dirty-refrigerator-clipart_462-585.jpeg)
+
 Your kitchen is a disaster. We're not blaming anyone, but when we opened up the fridge today, we almost passed out. Please, please clean up your mess.
 
 ## Instructions
