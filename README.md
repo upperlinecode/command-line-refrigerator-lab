@@ -8,7 +8,7 @@ Your kitchen is a disaster. We're not blaming anyone, but when we opened up the 
 
 You'll be practicing your command line skills by organizing the files in your refrigerator.
 
-1. Fork and Clone this repository. Once you have it on your maching, `cd` into the project directory. Here is what your refrigerator currently looks like:
+1. Fork and Clone this repository. Once you have it on your machine, `cd` into the project directory. Here is what your refrigerator currently looks like:
 
 ![tree of directories](https://s3.amazonaws.com/upperline/curriculum-assets/command-line/current-tree.png)
 
