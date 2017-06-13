@@ -1,6 +1,6 @@
 # Lab: Clean Up The Fridge!
 
-![Dirty Fridge](https://img.clipartfest.com/b59ba28ca25e5c8b42c7b5de82e491c5_mortimer-dirty-refrigerator-clipart_462-585.jpeg)
+![Dirty Fridge](https://2.bp.blogspot.com/-plaqoWwxUnA/UoVrgyNPUHI/AAAAAAAAAeY/jhALyfFVTpU/s1600/dirty-fridge-clipart-i1.jpg)
 
 Your kitchen is a disaster. We're not blaming anyone, but when we opened up the fridge today, we almost passed out. Please, please clean up your mess.
 
@@ -8,7 +8,7 @@ Your kitchen is a disaster. We're not blaming anyone, but when we opened up the 
 
 You'll be practicing your command line skills by organizing the files in your refrigerator.
 
-+ Fork and Clone this repository. Once you have it on your maching, `cd` into the project directory. Here is what your refrigerator currently looks like:
++ Fork and Clone this repository. Once you have it on your machine, `cd` into the project directory. Here is what your refrigerator currently looks like:
 
 ![tree of directories](https://s3.amazonaws.com/upperline/curriculum-assets/command-line/current-tree.png)
 
