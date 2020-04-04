@@ -15,7 +15,7 @@ You'll be practicing your command line skills by organizing the files in your re
 + Using `ls`, `pwd`, `cd`, `mv`, and `rm`, get the food files in their correct directories. Here's how we'd move the watermelon from the meat directory into the fruits directory (first you'll need to `cd` into the meat directory):
 
 ```
-mv watermelon.jpg ../produce/fruit
+mv watermelon.jpg ../produce/fruits/
 ```
 This will move the watermelon up one level (..) which will place it in the general fridge directory, and then it is moved into "produce" and then "fruit"
 
